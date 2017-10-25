@@ -1,0 +1,19 @@
+Evan Kerns
+CSCI 4229
+HW4 - Fenway Park
+
+Instructions:
+In hw4 directory
+>make
+>./hw4
+
+m: Toggles orthogonal and perspective
+Page Up/Down: Zooms in + out
+Arrow Keys: Change view point
+0: Resets view angle
+ESC: exits
+
+f: Toggles first person
+a,s,d,w: Controls first person movement
+
+Completion Time: 5 hours
