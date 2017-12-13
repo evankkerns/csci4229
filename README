@@ -1,0 +1,31 @@
+Evan Kerns
+CSCI 4229
+Project - Fenway Park
+
+Instructions:
+In fenway directory
+>make
+>./fenway
+
+f: toggles first-person and pivot mode
+In first-person (initial)
+  w: forward
+  s: backward
+  a: turn left
+  d: turn right
+  p: up (as if you're wearing a jetpack)
+  l: down
+In pivot mode
+  pg up: zoom out
+  pg down: zoom in
+  arrow keys: directional view points
+  0: reset view angle
+
+ESC: exits
+
+Notes:
+  Pressing 'k' marks each place I have sat at a game at Fenway.
+  The two video boards are the actual video boards you would see at Fenway Park.
+  The Green Monster scoreboard (the large left field wall scoreboard)
+          is of an actual game.
+  The right field corner features the retired numbers of the Red Sox.
